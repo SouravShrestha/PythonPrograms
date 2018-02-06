@@ -5,4 +5,5 @@ A place full of python codes.
 Here common Python programs and snippets are shared.
 
 # Why?
-Share the code.Help Programmers.
+Share the code.
+Help Programmers.
