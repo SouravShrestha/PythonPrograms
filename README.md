@@ -1,8 +1,8 @@
 # PythonPrograms
 A place full of python codes.
 
-#What?
+# What?
 Here common Python programs and snippets are shared.
 
-#Why?
+# Why?
 Share the code.Help Programmers.
